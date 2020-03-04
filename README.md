@@ -1,7 +1,7 @@
 # Godot Third person view
 # License: LGPL-2.1
 
-Just an demo of a third person view / TPV
+Just a demo of third person view / TPV
 
 |Control|Key|
 |-------|----|
